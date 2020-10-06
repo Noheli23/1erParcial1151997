@@ -4,3 +4,17 @@
 nav{
     background-color: white;
 }
+#img2 img{
+    width: 100%;
+}
+#img3 img{
+    width: 80%;
+}
+#img4 img{
+    width: 60%;
+}
+footer{
+    display: block;
+    color: white;
+    background-color: #38006b;
+}
